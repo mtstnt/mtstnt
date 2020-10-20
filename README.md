@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello World!
+# My name is Matthew Sutanto
 
-<!--
-**mtstnt/mtstnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a college student in Indonesia, currently passionate about backend development and game development.
+Some tools I've learned in my free time:
+Backend Technologies:
+  - Native PHP and some frameworks (Laravel and Codeigniter)
+  - Native Javascript, Node with Express framework.
+  - A little bit of Golang.
+Game Dev Technologies:
+  - Unity engine and general C# in Unity.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+For business needs, please contact me at matthew.sutanto0612(at)gmail.com !
