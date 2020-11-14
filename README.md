@@ -7,9 +7,11 @@ Some tools I've learned in my free time:
 Backend Technologies:  
   - Native PHP and some frameworks (Laravel and Codeigniter)
   - Native Javascript, Node with Express framework.
-  - A little bit of Golang.  
 
 Game Dev Technologies:  
   - Unity engine and general C# in Unity.  
+ 
+Other:
+  - Intermediate C++ with OOP
 
-For business needs, please contact me at matthew.sutanto0612(at)gmail.com !
+For any work related things, please contact me at matthew.sutanto0612(at)gmail.com !
