@@ -2,7 +2,7 @@
 ### My name is Matthew Sutanto
 
 I'm a college student in Indonesia, currently passionate about backend development and game development. \
-Some tools I've learned in my free time:  
+Some technologies I learn in my free time:  
 
 Backend Technologies:  
   - Native PHP and some frameworks (Laravel and Codeigniter)
