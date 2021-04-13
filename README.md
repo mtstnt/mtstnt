@@ -1,6 +1,6 @@
 # Hello World!
-Matthew Sutanto
-Full-stack Web Developer, specializing in Backend Web Development.
+Matthew Sutanto  
+Full-stack Web Developer, specializing in Backend Web Development.  
 
 [![My Stats](https://github-readme-stats.vercel.app/api?username=mtstnt&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
