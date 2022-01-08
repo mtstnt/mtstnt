@@ -1,12 +1,9 @@
 # Hello World!
 Matthew Sutanto  
-Full-stack web developer, specializing in backend web development.  
-- Develop websites (using code or wordpress) for your online shop, company profiles, etc.
-- Develop and maintain wordpress websites.
+Full-stack web developer, specializing in backend web development.
+Currently loving Rust and Elixir programming language and looking forward to do stuff with it.
 
-Currently loving Rust (programming language) and looking forward to do stuff with it.
-
-My main website: [https://mtstnt.xyz](https://mtstnt.xyz)*  
+My main website: [https://mtstnt.github.io](https://mtstnt.github.io)*  
 My blogging website: [https://codingphile.com](https://codingphile.com)*  
 *) Both are under development.  
 
