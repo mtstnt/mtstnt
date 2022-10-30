@@ -1,9 +1,9 @@
 # Hello World!
-Matthew Sutanto  
+My name is Matthew  
 I'm a student in Petra Christian University, majoring in Computer Science.  
 Also a full-stack web developer, specializing in backend web development.  
 
-*) Note: This Github account's repository is filled with mostly unfinished projects, hehehe... 
+*) Note: My repository is filled with mostly unfinished projects, hehehe... 
 
 Github Stats:  
 
