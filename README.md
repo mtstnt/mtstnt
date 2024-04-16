@@ -1,10 +1,10 @@
 # Hello World!
 
-I code stuff. Thx.
-See my LinkedIn for more info. [matthewsutanto](https://www.linkedin.com/in/matthewsutanto/).
-Contact me through it if necessary. Thanks.
+I code stuff.  
+See my LinkedIn for more info. [matthewsutanto](https://www.linkedin.com/in/matthewsutanto/).  
+Contact me through it if necessary. Thanks.  
 
-*) Note: My repository is filled with mostly unfinished projects, hehehe... 
+*) Note: My repository is filled with mostly unfinished projects
 
 Github Stats:  
 
