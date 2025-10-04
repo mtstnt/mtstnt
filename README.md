@@ -1,18 +1,12 @@
 # Hello World!
 
-I'm **Matthew**, from Indonesia 🇮🇩.
-I love to build stuff & find ways to solve complex problems.
+I'm **Matthew**, based in Indonesia 🇮🇩.
+I specialize in backend development, however one of the things that I'm good at is adjusting myself to different tech stacks and workflows.
+I value delivering high quality, reliable, and efficient software as my highest principle in developing software, and I take pride of that.
+Most of my initiatives at work are to reduce redundant and inefficient work and make ensuring releases done easier, faster, and more reliable.
 
-I'm really interested to work in these fields:
-- Compilers & Interpreters
-- Database Systems
-- Container Orchestration
-- Distributed Systems
-- and other Systems Programming topics.
+I'm open for opportunities from all over the world, and I'm willing to adjust my working hours to match your core hours. My timezone is UTC+7.
 
-However, I am open to any kind of projects as long as it allows creativity & freedom in problem solving.
-
-*) Note: My repository is filled with mostly unfinished projects
-See my LinkedIn for more info. [matthewsutanto](https://www.linkedin.com/in/matthewsutanto/).
+See my LinkedIn for more info. [matthewsutanto](https://www.linkedin.com/in/matthewsutanto/)
 
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mtstnt&show_icons=true&theme=radical&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)]
